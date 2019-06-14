@@ -5,7 +5,7 @@
 ## Installation
 
 ```js
-npm install --mobx-antd-form
+npm install --save mobx-antd-form
 ```
 
 
@@ -134,4 +134,4 @@ class BasicForms extends React.Component {
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) Copyright (c) 2018 - forever Naufal Rabbani
+[MIT](http://opensource.org/licenses/MIT) Copyright (c) 2019
